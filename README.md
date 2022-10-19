@@ -1,6 +1,7 @@
 Hi All,
 
 This project is dedicated to building an app with cooking recipes. 
+This is portfolio project. you can find the archived version [here](https://github.com/MrGerlach/Cookcademy_archive) 
 
 ## The app is designed to:
 1. Show the user the categories of meals
