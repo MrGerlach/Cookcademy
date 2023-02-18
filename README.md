@@ -1,7 +1,17 @@
-Hi All,
+# Cookacademy - best recipes to start cooking
 
 This project is dedicated to building an app with cooking recipes. 
-This is portfolio project. you can find the archived version [here](https://github.com/MrGerlach/Cookcademy_archive) 
+This is portfolio project. You can find the archived version [here](https://github.com/MrGerlach/Cookcademy_archive) 
+
+---
+
+## Table of content:
+- [Used technologies](#used-technologies)
+- [App purpose](#the-app-is-designed-to)
+- [Files desription](#files-description)
+- [Screenshots](#screenshots)
+
+---
 
 ## The app is designed to:
 1. Show the user the categories of meals
@@ -13,8 +23,10 @@ This is portfolio project. you can find the archived version [here](https://gith
 7. Each recipe can be edited
 8. All changes are saved in the file system
 
-## What you can find in this project?
-### 1. Views
+---
+
+## Files description
+### **Views**
 - MainTabView - default view in app, allows to switch between recipes, favorites and settings.
 - SettingsView - design to choose list background color and text color. Optional steps can be hidden.
 
@@ -31,9 +43,30 @@ This is portfolio project. you can find the archived version [here](https://gith
 - ModifyDirectionView - add or edit directions
 
 
-### 2. Models
+### **Models**
 - Recipe - contains all recipes, categories, descriptions, ingredients etc.
 
-### 3. ViewModels 
+### **ViewModels**
 - AppColor - conatins colors used in the app
 - RecipeData - is responsible for showing recipes from chosen category, saving and loading recipes.
+
+---
+
+## Screenshots
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy1.png?raw=true" width="400" />
+
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy2.png?raw=true" width="400" />
+
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy3.png?raw=true" width="400" />
+
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy4.png?raw=true" width="400" />
+
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy5.png?raw=true" width="400" />
+
+
+<img src="https://github.com/MrGerlach/Content/blob/main/Resources/CookCademy6.png?raw=true" width="400" />
